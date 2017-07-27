@@ -85,17 +85,7 @@
       "offerValue": "CentOS",
       "skuValue": "7.2",
       "version": "latest"
-    },
-            "Server2012R2": {
-                "PublisherValue": "MicrosoftWindowsServer",
-                "OfferValue": "WindowsServer",
-                "SkuValue": "2012-R2-Datacenter"
-            },
-            "Server2016": {
-                "PublisherValue": "MicrosoftWindowsServer",
-                "OfferValue": "WindowsServer",
-                "SkuValue": "2016-Datacenter"
-            }
+    }
         },
         "availabilitySetPlatformFaultDomainCount": "2",
         "availabilitySetPlatformUpdateDomainCount": "5",
